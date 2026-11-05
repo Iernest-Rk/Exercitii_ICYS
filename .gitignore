@@ -1,3 +1,7 @@
 MDA231*
 venv/
+.venv/
+.vscode/
 temp_build/
+*.jpg
+*.png
